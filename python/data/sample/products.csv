@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,brand,price,cost,stock_quantity,reorder_level,supplier,weight_kg,rating,review_count
+P00001,Stand-alone grid-enabled flexibility,Health & Wellness,Health & Wellness - Standard,"Olson, Atkinson and Tucker",152.19,62.91,170,11,"Cross, Davis and Bentley",4.13,4.3,810
+P00002,Diverse multimedia paradigm,Clothing,Clothing - Standard,Miller PLC,242.51,164.6,468,48,Ponce-Callahan,5.76,4.8,854
+P00003,Upgradable optimal database,Office Supplies,Office Supplies - Standard,Chapman Group,119.22,58.43,333,12,Blake Inc,8.19,4.3,593
+P00004,Team-oriented actuating initiative,Sports & Outdoors,Sports & Outdoors - Premium,Ayers-Carter,203.46,113.78,20,24,Kramer-Schmidt,9.52,3.9,406
+P00005,Cross-group next generation methodology,Electronics,Electronics - Premium,"Chen, Rodriguez and Blake",220.71,141.41,140,44,"Fisher, Vincent and Nelson",8.16,4.1,426
+P00006,Operative context-sensitive budgetary management,Electronics,Electronics - Budget,Bean Inc,255.86,163.34,327,29,Patterson Group,7.71,4.3,508
+P00007,Sharable eco-centric Graphical User Interface,Office Supplies,Office Supplies - Budget,"Tucker, Roth and Brown",114.57,64.81,399,17,Tucker-Rogers,8.57,4.9,398
+P00008,Persevering neutral core,Health & Wellness,Health & Wellness - Premium,Park Inc,365.6,206.02,102,10,Smith-Burch,6.88,3.2,662
+P00009,Cloned motivating workforce,Books,Books - Premium,Brooks-Thompson,473.82,203.67,476,26,Lynch-Hogan,1.77,3.6,263
+P00010,Re-contextualized system-worthy alliance,Toys & Games,Toys & Games - Standard,"Burke, James and Castillo",89.31,41.19,83,33,"Lawson, Floyd and Johnson",1.07,4.9,316
+P00011,Integrated leadingedge moderator,Health & Wellness,Health & Wellness - Budget,"Kemp, Williams and Garcia",348.86,146.72,79,17,Scott-Torres,8.54,3.0,245
+P00012,Organized radical function,Clothing,Clothing - Standard,Perez-Valenzuela,391.55,269.99,58,38,"Roach, Rhodes and Gonzalez",3.44,4.0,855
+P00013,Self-enabling fresh-thinking attitude,Health & Wellness,Health & Wellness - Premium,Green-Lowery,238.0,129.56,314,27,Campbell-Moore,7.88,3.7,94
+P00014,Organized didactic data-warehouse,Beauty & Personal Care,Beauty & Personal Care - Premium,Juarez-Villanueva,96.44,54.35,128,11,Hall-Perez,9.12,4.2,992
+P00015,Devolved incremental array,Clothing,Clothing - Premium,"Whitaker, Morales and Smith",496.14,220.16,82,43,Wolf Ltd,8.17,4.1,490
+P00016,Visionary bandwidth-monitored encoding,Beauty & Personal Care,Beauty & Personal Care - Standard,Martinez Inc,24.6,15.69,221,16,Jones-Lynn,8.09,4.6,412
+P00017,Adaptive coherent array,Books,Books - Budget,Harris-Lopez,92.09,54.45,396,47,Garcia-Aguilar,7.5,3.1,762
+P00018,Front-line responsive synergy,Books,Books - Standard,"Allen, Owens and Turner",418.91,237.62,234,34,"Coleman, Hoffman and Johnson",3.29,3.7,921
+P00019,Sharable bottom-line alliance,Electronics,Electronics - Premium,Andrews-Jordan,27.83,11.16,181,11,Johnson-Martinez,9.88,4.9,664
+P00020,De-engineered composite hub,Beauty & Personal Care,Beauty & Personal Care - Premium,Hale-Scott,213.61,147.58,441,39,Wilson-Shepard,0.94,4.7,608
+P00021,Enhanced fault-tolerant parallelism,Health & Wellness,Health & Wellness - Premium,Velasquez-Williams,285.09,164.74,242,41,"Salinas, Collins and Russo",5.58,4.1,779
+P00022,Synchronized full-range emulation,Beauty & Personal Care,Beauty & Personal Care - Premium,Mason-Fields,68.68,43.67,326,30,"Bailey, Morgan and Joseph",2.54,4.1,435
+P00023,Customer-focused modular complexity,Sports & Outdoors,Sports & Outdoors - Premium,"Tucker, Williams and Park",29.08,12.11,153,18,Butler PLC,6.99,4.6,156
+P00024,Upgradable interactive hub,Sports & Outdoors,Sports & Outdoors - Standard,Holt Inc,176.57,122.61,499,43,Sanford Inc,3.7,4.0,756
+P00025,Polarized foreground frame,Sports & Outdoors,Sports & Outdoors - Premium,"Austin, Glenn and Gonzalez",209.37,145.38,167,21,"Johnson, Bailey and Nash",7.15,4.7,953
+P00026,Integrated responsive help-desk,Health & Wellness,Health & Wellness - Premium,Cantu Inc,305.42,155.39,48,26,Hoffman-Keith,7.7,3.6,126
+P00027,Visionary 6thgeneration benchmark,Home & Kitchen,Home & Kitchen - Budget,Hanson Ltd,292.44,187.2,118,13,"Padilla, Warren and Campbell",2.84,4.7,563
+P00028,Re-contextualized systemic groupware,Health & Wellness,Health & Wellness - Premium,Williams-Freeman,457.36,294.3,281,46,Hart and Sons,8.72,4.1,928
+P00029,Realigned content-based flexibility,Health & Wellness,Health & Wellness - Premium,Strickland and Sons,332.37,222.22,385,12,Wright Inc,3.19,4.8,95
+P00030,Automated fault-tolerant workforce,Beauty & Personal Care,Beauty & Personal Care - Premium,Miller and Sons,141.83,62.56,48,47,Smith-Sheppard,0.14,4.8,43
+P00031,Digitized incremental data-warehouse,Automotive,Automotive - Standard,Fields LLC,406.66,228.78,135,20,West-Holland,5.95,4.1,813
+P00032,Networked fault-tolerant access,Books,Books - Premium,Mccoy-Morales,50.18,22.86,470,46,Stone PLC,7.04,3.2,831
+P00033,Realigned executive database,Electronics,Electronics - Budget,May-Perkins,240.45,147.27,86,42,Watson Ltd,2.46,3.8,697
+P00034,Team-oriented full-range parallelism,Health & Wellness,Health & Wellness - Budget,Castro LLC,438.79,280.12,397,22,Mack-Rose,4.98,3.5,440
+P00035,Fundamental uniform initiative,Books,Books - Standard,Cooper LLC,310.5,142.13,270,28,Taylor-Mason,3.51,3.8,604
+P00036,Multi-channeled methodical parallelism,Toys & Games,Toys & Games - Standard,"Jones, Bennett and Harris",456.27,219.38,315,17,Lopez-Swanson,7.1,3.5,619
+P00037,Quality-focused client-server alliance,Automotive,Automotive - Premium,Lambert-Miller,10.71,5.59,97,26,"Bryant, Morton and Singleton",6.94,4.2,833
+P00038,Business-focused local collaboration,Office Supplies,Office Supplies - Budget,Walker LLC,68.79,32.65,364,12,Klein-Williams,2.39,3.5,47
+P00039,Streamlined homogeneous emulation,Clothing,Clothing - Premium,Baker-Garcia,345.19,238.03,141,17,"Robinson, English and Martinez",5.79,4.3,734
+P00040,Extended zero-defect toolset,Clothing,Clothing - Premium,Morales LLC,416.69,218.35,174,23,Stewart-Ortega,4.53,3.3,663
+P00041,Versatile demand-driven flexibility,Clothing,Clothing - Standard,"Hines, Miller and Ruiz",435.71,302.03,193,43,Gomez Group,6.84,3.9,206
+P00042,Cross-platform bandwidth-monitored challenge,Home & Kitchen,Home & Kitchen - Standard,Young Ltd,111.32,50.81,340,25,Hernandez-Mccormick,4.95,4.9,447
+P00043,Cloned client-driven contingency,Electronics,Electronics - Standard,"Smith, Romero and Barrett",133.53,71.99,31,13,Smith-Mitchell,7.51,4.0,208
+P00044,Grass-roots non-volatile circuit,Toys & Games,Toys & Games - Standard,Scott LLC,64.1,28.35,143,21,Garner-Oliver,4.32,3.0,804
+P00045,Organic explicit utilization,Health & Wellness,Health & Wellness - Standard,"Baker, Martin and Blankenship",41.99,21.18,329,24,Farmer PLC,4.55,4.4,282
+P00046,Enterprise-wide directional workforce,Automotive,Automotive - Standard,Lawrence-Dixon,482.12,216.06,112,38,"Conrad, Garcia and Hanson",9.06,3.0,240
+P00047,Stand-alone executive system engine,Automotive,Automotive - Budget,"Brady, Pearson and Park",198.45,109.72,478,19,Graham PLC,1.19,4.4,534
+P00048,User-centric empowering task-force,Sports & Outdoors,Sports & Outdoors - Standard,Parrish-Chen,348.05,229.23,264,29,Franklin Group,7.49,3.0,580
+P00049,Polarized bottom-line approach,Clothing,Clothing - Standard,Adams-Smith,128.2,60.98,125,45,Meadows-Barrett,8.57,4.1,946
+P00050,Synchronized zero administration secured line,Health & Wellness,Health & Wellness - Budget,"Taylor, Nichols and Rodriguez",461.7,253.52,270,10,Cole-Fernandez,1.58,3.0,786
+P00051,Networked disintermediate interface,Health & Wellness,Health & Wellness - Standard,Reed-Massey,215.67,86.36,99,21,Anderson Ltd,1.17,3.6,782
+P00052,User-centric full-range capability,Toys & Games,Toys & Games - Standard,Leonard and Sons,133.07,76.63,321,35,Martinez and Sons,6.73,4.9,578
+P00053,Networked 5thgeneration frame,Office Supplies,Office Supplies - Standard,Fletcher Ltd,184.87,100.12,100,25,Torres PLC,3.31,4.7,365
+P00054,Secured even-keeled moderator,Automotive,Automotive - Budget,Schultz and Sons,381.87,190.95,116,37,Edwards PLC,9.58,3.0,78
+P00055,Vision-oriented leadingedge protocol,Clothing,Clothing - Premium,Lamb PLC,286.93,134.68,443,12,Schroeder-Rodriguez,2.13,3.8,756
+P00056,Upgradable homogeneous orchestration,Clothing,Clothing - Budget,"Thomas, Johnson and Gonzalez",60.28,32.09,69,24,Wallace Inc,7.41,3.4,99
+P00057,Front-line motivating matrices,Electronics,Electronics - Budget,Bennett-Bell,135.66,70.92,143,47,"Waters, Roberts and Cox",8.91,4.8,95
+P00058,Profit-focused background installation,Beauty & Personal Care,Beauty & Personal Care - Budget,White-Gutierrez,462.55,201.5,412,26,Thompson-Martin,7.93,4.1,644
+P00059,Sharable mobile capability,Books,Books - Budget,Nguyen LLC,31.64,15.29,85,10,Castaneda PLC,9.27,4.0,221
+P00060,Upgradable tangible secured line,Toys & Games,Toys & Games - Premium,Garza-Ross,444.86,189.78,298,24,"Melton, King and Lang",9.26,3.6,437
+P00061,Seamless needs-based functionalities,Beauty & Personal Care,Beauty & Personal Care - Standard,Wagner-Cunningham,467.98,265.29,84,11,"Cooper, Johnson and Stewart",7.42,5.0,585
+P00062,Persistent didactic structure,Electronics,Electronics - Premium,"Hall, Chavez and Davis",336.98,152.19,80,24,"Andrade, Brown and Woods",7.4,4.5,200
+P00063,Operative foreground Graphic Interface,Books,Books - Standard,"Lopez, Cross and Vaughan",106.85,57.51,338,38,"Bennett, Brown and Ramirez",2.33,3.3,120
+P00064,Virtual explicit definition,Books,Books - Standard,"Knapp, Tran and Case",189.65,123.36,221,19,Davis-Campbell,6.91,4.7,162
+P00065,Upgradable methodical concept,Automotive,Automotive - Premium,Thomas-Love,195.26,100.04,272,21,Erickson Ltd,6.88,4.8,111
+P00066,Phased reciprocal customer loyalty,Clothing,Clothing - Premium,Greene and Sons,384.56,162.27,212,16,"Griffith, Hernandez and Matthews",4.4,4.4,170
+P00067,Decentralized hybrid orchestration,Sports & Outdoors,Sports & Outdoors - Budget,"Harris, Ramirez and Rivas",359.71,203.78,346,43,"Weber, Thompson and Washington",9.5,4.9,920
+P00068,Synchronized object-oriented project,Office Supplies,Office Supplies - Standard,Hill-Murphy,492.36,220.19,304,44,Robbins-Castillo,6.64,3.4,459
+P00069,Streamlined asymmetric protocol,Toys & Games,Toys & Games - Standard,Irwin-Davis,94.35,45.64,133,48,Jones-Navarro,2.22,4.5,790
+P00070,Grass-roots modular application,Electronics,Electronics - Standard,Malone-Haas,106.17,54.43,274,39,Krause and Sons,9.28,4.7,118
+P00071,Switchable high-level budgetary management,Home & Kitchen,Home & Kitchen - Premium,Roman-Johns,451.41,280.37,273,17,Robbins-Hawkins,5.64,3.8,665
+P00072,Digitized well-modulated middleware,Office Supplies,Office Supplies - Premium,"Johnson, Spencer and Hale",359.1,149.33,92,44,"Estes, Ward and Lee",8.77,4.6,246
+P00073,Universal neutral service-desk,Electronics,Electronics - Budget,Perez-Thompson,259.12,145.91,37,25,Stevens LLC,5.44,3.2,537
+P00074,Distributed coherent capability,Health & Wellness,Health & Wellness - Standard,Jackson Ltd,55.83,27.9,69,21,Hart Group,0.54,4.0,858
+P00075,Synergized user-facing focus group,Books,Books - Premium,Campbell and Sons,78.46,47.83,45,43,"Howard, Jones and Williams",1.56,3.9,432
+P00076,De-engineered bandwidth-monitored task-force,Health & Wellness,Health & Wellness - Standard,Giles-Anthony,49.28,26.52,348,27,Jackson and Sons,9.93,3.7,33
+P00077,Function-based 3rdgeneration protocol,Electronics,Electronics - Budget,Davis-Ray,392.22,238.18,441,11,"Page, Pineda and Wilkinson",0.93,3.3,760
+P00078,Streamlined multimedia success,Office Supplies,Office Supplies - Budget,Nguyen Group,49.72,22.73,487,16,Lopez PLC,4.45,4.8,663
+P00079,Robust next generation Internet solution,Beauty & Personal Care,Beauty & Personal Care - Budget,Smith Inc,38.05,23.76,309,11,Jones-Austin,7.22,5.0,320
+P00080,Innovative mobile model,Toys & Games,Toys & Games - Budget,Powell-Baker,339.37,201.48,385,28,Lane-Randall,2.68,3.2,832
+P00081,Secured 5thgeneration portal,Home & Kitchen,Home & Kitchen - Budget,"Patterson, Larson and Lee",304.17,170.95,147,41,Lawrence-Cummings,5.27,4.5,154
+P00082,Inverse impactful knowledgebase,Home & Kitchen,Home & Kitchen - Standard,"Phillips, Oliver and Lee",413.93,227.84,403,12,Lopez-Mathews,3.21,3.9,519
+P00083,De-engineered heuristic migration,Toys & Games,Toys & Games - Premium,Baldwin Group,238.98,138.55,1,26,Barker LLC,8.87,3.8,651
+P00084,Realigned contextually-based analyzer,Beauty & Personal Care,Beauty & Personal Care - Budget,Palmer-Johnson,53.46,29.66,271,19,Baker-Johnson,4.11,4.1,241
+P00085,Multi-layered composite benchmark,Toys & Games,Toys & Games - Standard,Meza-Barnes,83.14,46.02,164,33,Davis PLC,6.65,3.7,841
+P00086,Visionary needs-based workforce,Home & Kitchen,Home & Kitchen - Standard,Smith and Sons,394.72,244.28,282,12,Simpson Group,6.29,3.1,212
+P00087,Progressive multimedia infrastructure,Books,Books - Budget,White Inc,210.99,119.73,316,32,Sullivan-Mills,7.89,3.0,639
+P00088,Stand-alone full-range conglomeration,Health & Wellness,Health & Wellness - Premium,Snyder-Shaw,100.54,42.05,410,13,Moore-Armstrong,9.29,4.7,258
+P00089,Profit-focused zero tolerance support,Health & Wellness,Health & Wellness - Budget,"Diaz, Mercer and Sanchez",70.89,47.82,378,10,"Boyd, Chavez and Carpenter",2.69,4.5,985
+P00090,Reverse-engineered 3rdgeneration instruction set,Home & Kitchen,Home & Kitchen - Standard,Haney-Hernandez,278.26,152.92,476,25,"Benjamin, Cooper and Collins",5.21,3.8,782
+P00091,Assimilated full-range Graphic Interface,Books,Books - Premium,Sampson-Parker,268.88,139.79,124,19,Gibson-King,6.76,3.3,409
+P00092,Optional object-oriented open architecture,Office Supplies,Office Supplies - Budget,"Fisher, Anderson and Harris",342.17,154.41,292,29,"Valdez, Johnson and Parker",4.14,3.3,248
+P00093,Customer-focused zero-defect Internet solution,Toys & Games,Toys & Games - Premium,Bryan and Sons,380.67,194.33,371,43,Liu-Harrison,4.37,3.2,983
+P00094,Profit-focused human-resource forecast,Sports & Outdoors,Sports & Outdoors - Premium,Johnson-Hendrix,50.26,32.5,149,50,Thompson-Jacobs,3.96,3.7,768
+P00095,Universal fault-tolerant circuit,Beauty & Personal Care,Beauty & Personal Care - Premium,Wood LLC,381.25,173.84,403,24,Espinoza and Sons,7.24,3.7,556
+P00096,Monitored 24hour application,Home & Kitchen,Home & Kitchen - Budget,"Myers, Allen and Stewart",153.98,62.67,43,40,"Thomas, Mullins and Walker",3.83,3.8,286
+P00097,User-centric asynchronous collaboration,Sports & Outdoors,Sports & Outdoors - Budget,Wall LLC,261.36,144.16,470,11,Wood LLC,7.74,4.5,377
+P00098,Open-source zero administration initiative,Books,Books - Budget,Robertson Ltd,282.48,156.96,425,27,"White, Cline and Thomas",3.38,4.9,476
+P00099,Decentralized contextually-based productivity,Office Supplies,Office Supplies - Premium,Williams PLC,417.56,251.41,174,12,Carter-Lawrence,2.97,4.3,873
+P00100,User-centric encompassing infrastructure,Sports & Outdoors,Sports & Outdoors - Premium,"Reed, Cervantes and Young",127.02,58.77,391,32,"Richards, Moore and Smith",2.02,4.1,601
+P00101,Distributed fault-tolerant project,Beauty & Personal Care,Beauty & Personal Care - Premium,"Velasquez, Phillips and Patel",442.91,229.61,113,19,Allen Group,8.08,3.2,728
+P00102,User-centric bandwidth-monitored moratorium,Office Supplies,Office Supplies - Standard,"Rice, Campbell and Green",232.82,143.51,403,17,Rodgers PLC,5.49,4.2,203
+P00103,Adaptive uniform concept,Books,Books - Budget,"Ball, Foster and Young",300.73,181.53,252,23,Campos Ltd,1.43,4.3,231
+P00104,Function-based 24hour functionalities,Electronics,Electronics - Premium,Robinson-Vega,442.37,272.94,489,15,Davis and Sons,9.19,4.2,517
+P00105,Phased object-oriented firmware,Automotive,Automotive - Standard,Bentley-Merritt,381.62,266.15,48,39,Lamb Ltd,9.61,4.7,797
+P00106,Balanced empowering customer loyalty,Health & Wellness,Health & Wellness - Budget,"Price, Gregory and Anderson",362.94,242.28,5,21,Dorsey Ltd,2.17,3.1,830
+P00107,Multi-tiered system-worthy toolset,Electronics,Electronics - Standard,Palmer-Franklin,297.18,188.29,57,45,"English, Ingram and Carpenter",1.37,4.2,946
+P00108,Sharable actuating methodology,Electronics,Electronics - Standard,Mills and Sons,129.75,64.89,326,41,Malone-Burke,2.71,3.6,610
+P00109,Assimilated well-modulated success,Clothing,Clothing - Standard,"Koch, Ross and Howard",480.58,324.39,451,49,Hale PLC,6.83,3.8,624
+P00110,Cloned solution-oriented adapter,Beauty & Personal Care,Beauty & Personal Care - Premium,Porter-Moran,75.62,31.98,309,14,Anthony PLC,8.1,4.7,654
+P00111,Reduced tertiary moderator,Office Supplies,Office Supplies - Budget,"Mendez, Newman and Luna",150.55,73.42,118,35,Davidson-Arnold,5.35,3.7,27
+P00112,Up-sized methodical orchestration,Office Supplies,Office Supplies - Standard,Harris-Huffman,78.25,35.87,417,20,"Rivera, Ward and Hughes",9.42,4.2,517
+P00113,Seamless holistic installation,Home & Kitchen,Home & Kitchen - Standard,Quinn LLC,46.02,22.2,172,36,Alvarez Group,0.86,3.5,37
+P00114,Balanced bottom-line system engine,Sports & Outdoors,Sports & Outdoors - Budget,"Ortiz, Thomas and Floyd",73.73,38.5,382,12,"Tanner, Murphy and Kidd",8.31,4.3,796
+P00115,User-centric radical circuit,Beauty & Personal Care,Beauty & Personal Care - Standard,"Fields, Brown and Spencer",126.45,66.84,494,12,Vaughn Group,5.24,3.2,764
+P00116,Realigned 24/7 functionalities,Home & Kitchen,Home & Kitchen - Premium,Scott Inc,218.99,149.28,483,22,Green-Estes,8.76,3.1,906
+P00117,Profit-focused multi-tasking workforce,Books,Books - Standard,"Burton, Brown and Hodge",187.05,124.45,45,11,Rodriguez LLC,3.92,4.4,74
+P00118,Cross-platform heuristic portal,Beauty & Personal Care,Beauty & Personal Care - Premium,"Thomas, Weber and Ortiz",470.75,202.42,89,23,Stevens PLC,2.61,3.7,53
+P00119,Enhanced 6thgeneration benchmark,Toys & Games,Toys & Games - Premium,"Ruiz, Freeman and Serrano",259.45,137.73,55,41,"Aguirre, Acosta and Alvarado",6.3,4.0,781
+P00120,Fully-configurable tangible hardware,Health & Wellness,Health & Wellness - Premium,Wells LLC,325.63,190.94,268,26,Reeves PLC,2.97,4.9,118
+P00121,Persistent encompassing open system,Books,Books - Budget,Robinson Ltd,158.96,63.82,270,38,"Johnston, Escobar and Williams",7.82,3.7,243
+P00122,Total well-modulated website,Automotive,Automotive - Budget,Alexander-Rush,432.79,268.76,270,18,"Cruz, Hudson and Allen",4.13,3.4,660
+P00123,Virtual impactful conglomeration,Beauty & Personal Care,Beauty & Personal Care - Premium,"Hunter, Foster and Johnson",311.11,129.43,341,33,Landry-Hartman,4.57,4.4,620
+P00124,Synergistic incremental system engine,Electronics,Electronics - Budget,Peterson Inc,258.63,148.52,33,28,Russell Ltd,2.93,3.4,16
+P00125,Synergized modular middleware,Automotive,Automotive - Budget,"Allen, Sanders and Robbins",496.03,318.55,206,48,Johnson-Marshall,7.09,4.2,640
+P00126,Team-oriented bifurcated synergy,Toys & Games,Toys & Games - Budget,Smith Ltd,385.65,247.75,445,28,Graham-Andrews,8.32,4.3,777
+P00127,Implemented multi-state archive,Office Supplies,Office Supplies - Budget,Chapman Group,375.55,226.64,437,39,West-Ware,0.99,4.0,148
+P00128,Synergized cohesive function,Health & Wellness,Health & Wellness - Budget,Williams-Bowen,393.93,202.96,487,46,Andersen LLC,2.56,3.7,105
+P00129,Universal optimizing info-mediaries,Sports & Outdoors,Sports & Outdoors - Budget,"Miller, Nielsen and Shelton",20.42,13.61,291,49,Delgado-Jones,7.94,4.7,976
+P00130,Reduced executive product,Home & Kitchen,Home & Kitchen - Premium,Kemp Inc,446.36,203.31,399,24,Moore LLC,3.01,3.3,992
+P00131,Integrated well-modulated throughput,Toys & Games,Toys & Games - Budget,Jackson-Aguirre,208.06,143.19,28,36,Dillon Inc,6.26,3.0,571
+P00132,Configurable cohesive flexibility,Automotive,Automotive - Budget,"Cooley, Rogers and Cannon",85.95,37.42,391,36,Black PLC,9.73,3.1,452
+P00133,Organic local policy,Home & Kitchen,Home & Kitchen - Standard,"Sutton, Bond and Jones",377.15,214.41,370,24,"Jenkins, Farrell and Cobb",5.25,3.4,686
+P00134,Distributed asymmetric structure,Office Supplies,Office Supplies - Budget,Sanchez LLC,454.85,215.23,486,43,"Ross, Williams and Hunt",1.47,4.8,775
+P00135,Optional optimizing leverage,Electronics,Electronics - Standard,"Williams, Williams and Lambert",419.63,272.09,459,32,Anderson-Bird,9.6,4.8,120
+P00136,Integrated stable info-mediaries,Home & Kitchen,Home & Kitchen - Budget,Smith Group,452.1,263.58,174,11,"Hunt, Vasquez and Villarreal",5.54,4.7,150
+P00137,Ergonomic client-driven core,Toys & Games,Toys & Games - Standard,Wilson-Lee,299.35,168.64,75,37,"Taylor, Bass and Jimenez",6.64,3.2,563
+P00138,Front-line clear-thinking portal,Toys & Games,Toys & Games - Standard,"Waller, Stewart and Stewart",290.73,151.78,37,23,Jones-Ruiz,0.25,4.0,436
+P00139,De-engineered fault-tolerant utilization,Clothing,Clothing - Budget,"Allen, Shepard and Osborne",339.29,225.52,392,22,"Deleon, Logan and Williams",8.09,3.6,344
+P00140,Re-contextualized impactful approach,Clothing,Clothing - Premium,Jackson-Perkins,133.45,84.49,204,44,"Peters, Kidd and Terrell",1.57,4.2,791
+P00141,Advanced 4thgeneration emulation,Sports & Outdoors,Sports & Outdoors - Standard,Miller-Wilson,426.38,250.63,20,11,"Ellison, Wilkinson and Clark",8.34,3.3,770
+P00142,Multi-lateral dynamic alliance,Books,Books - Budget,"Cook, Craig and Shaw",10.48,6.87,222,48,Jordan and Sons,3.97,4.8,64
+P00143,Centralized bi-directional throughput,Electronics,Electronics - Standard,Davis and Sons,67.22,37.05,38,15,Adkins-Cox,6.72,4.6,342
+P00144,Front-line high-level circuit,Electronics,Electronics - Premium,Olson-Cooper,33.48,17.16,28,49,"Arellano, Kennedy and Alvarado",6.52,3.2,644
+P00145,Future-proofed asymmetric infrastructure,Office Supplies,Office Supplies - Budget,Jensen PLC,45.85,22.76,232,36,Fischer Inc,7.76,4.7,534
+P00146,Ameliorated coherent framework,Books,Books - Standard,Martinez-Escobar,437.2,259.1,321,19,"Martin, Lloyd and Edwards",0.6,3.7,652
+P00147,Polarized interactive toolset,Sports & Outdoors,Sports & Outdoors - Standard,"Aguilar, Scott and Cannon",142.36,75.76,306,28,Stanton PLC,3.97,3.1,965
+P00148,Advanced well-modulated Internet solution,Automotive,Automotive - Budget,Gilbert PLC,443.86,231.24,441,36,Perez-Porter,6.75,4.2,352
+P00149,Extended executive benchmark,Electronics,Electronics - Premium,Parrish-Carr,282.18,176.01,251,50,Gonzalez-Navarro,8.28,4.8,945
+P00150,Decentralized client-server Local Area Network,Electronics,Electronics - Budget,Sanchez-Williams,491.17,299.51,308,14,"Russell, Armstrong and Wolf",7.71,3.5,406
+P00151,Triple-buffered neutral capability,Health & Wellness,Health & Wellness - Standard,Rodriguez-Robertson,340.57,143.09,99,22,Price-Webster,2.11,3.5,959
+P00152,User-friendly high-level hierarchy,Home & Kitchen,Home & Kitchen - Standard,Holden-Jenkins,477.55,242.29,476,20,King Inc,2.11,4.8,410
+P00153,Re-contextualized even-keeled knowledgebase,Clothing,Clothing - Premium,Franklin Inc,238.92,128.85,104,20,Spears-Arnold,6.81,3.2,167
+P00154,User-centric logistical alliance,Electronics,Electronics - Premium,Luna-Gutierrez,196.12,122.59,121,42,"Thompson, Chaney and Smith",9.8,3.6,478
+P00155,Virtual bi-directional knowledgebase,Automotive,Automotive - Standard,Diaz-Wiggins,277.6,142.35,97,23,Baker Group,4.53,4.8,558
+P00156,Networked demand-driven paradigm,Sports & Outdoors,Sports & Outdoors - Budget,Pittman-Jones,160.48,66.56,492,20,Thompson-Baker,8.66,3.6,144
+P00157,Monitored radical instruction set,Toys & Games,Toys & Games - Premium,Gonzales PLC,154.07,106.6,48,37,Smith Ltd,2.83,5.0,242
+P00158,Networked incremental service-desk,Automotive,Automotive - Standard,Martin-Cooper,110.4,71.71,203,40,"Davis, Lopez and Dominguez",5.39,4.9,926
+P00159,Customizable attitude-oriented success,Automotive,Automotive - Standard,"Taylor, Jones and Johnson",373.05,223.9,87,21,"Campbell, Hall and Frey",0.84,4.7,654
+P00160,Cross-platform exuding instruction set,Clothing,Clothing - Budget,Haas-Wilson,440.31,246.96,93,16,"Kane, Owen and Wilkinson",6.32,3.5,952
+P00161,Balanced needs-based function,Toys & Games,Toys & Games - Budget,Howard-Avery,94.09,47.24,424,41,Harrison Ltd,7.87,4.4,448
+P00162,Secured bi-directional matrix,Books,Books - Premium,Peterson-Pace,381.36,252.62,276,25,Moore Inc,8.78,4.7,181
+P00163,Universal tertiary strategy,Health & Wellness,Health & Wellness - Standard,"Peters, Smith and Villa",343.95,179.72,173,24,"Flores, Scott and Robinson",5.77,3.9,756
+P00164,Right-sized disintermediate attitude,Electronics,Electronics - Budget,Williams-Melton,251.48,145.0,368,50,"Walker, Roy and Howard",4.34,4.4,121
+P00165,Operative foreground adapter,Automotive,Automotive - Premium,Cannon PLC,244.38,127.27,480,41,Weaver and Sons,2.44,3.8,798
+P00166,Profound human-resource throughput,Home & Kitchen,Home & Kitchen - Premium,Nguyen-Jackson,431.45,219.83,1,34,"Bruce, Houston and Mcintosh",5.45,3.2,860
+P00167,Horizontal fresh-thinking methodology,Home & Kitchen,Home & Kitchen - Budget,Lambert Ltd,98.42,49.68,345,20,Nolan-Edwards,0.95,3.8,894
+P00168,Decentralized logistical superstructure,Beauty & Personal Care,Beauty & Personal Care - Standard,Guerrero Group,17.27,9.7,229,16,Martinez PLC,6.9,3.8,153
+P00169,Right-sized system-worthy knowledgebase,Clothing,Clothing - Premium,"Glass, Perez and Howard",266.19,112.29,292,18,Golden-Owens,3.34,3.8,467
+P00170,Business-focused impactful orchestration,Office Supplies,Office Supplies - Budget,"Gonzalez, Lee and Perez",477.9,275.84,395,27,Brown PLC,2.43,4.2,554
+P00171,Expanded human-resource strategy,Sports & Outdoors,Sports & Outdoors - Premium,Floyd Ltd,393.84,270.15,64,12,Zuniga and Sons,8.52,4.6,974
+P00172,Down-sized grid-enabled application,Office Supplies,Office Supplies - Premium,Carroll Inc,348.98,208.93,277,37,Ward-Fernandez,9.75,4.2,708
+P00173,Persevering maximized support,Sports & Outdoors,Sports & Outdoors - Standard,"Mason, Hurley and Payne",258.61,153.74,152,48,"Hicks, Brown and King",3.44,4.5,524
+P00174,Monitored national extranet,Health & Wellness,Health & Wellness - Budget,Gonzalez-Miller,318.46,135.41,177,38,"Gonzalez, Reese and Acosta",6.3,4.0,985
+P00175,Devolved motivating application,Electronics,Electronics - Standard,Love PLC,350.69,149.92,472,21,Ross and Sons,2.43,4.1,458
+P00176,User-friendly modular analyzer,Toys & Games,Toys & Games - Budget,Cardenas and Sons,244.02,153.91,336,21,Fry Group,0.36,4.2,281
+P00177,Multi-channeled zero-defect budgetary management,Toys & Games,Toys & Games - Budget,Taylor-Wiley,392.32,164.4,321,39,Rasmussen and Sons,5.0,4.1,393
+P00178,Balanced disintermediate functionalities,Health & Wellness,Health & Wellness - Budget,Thompson Ltd,83.46,47.77,223,42,Smith-Watson,5.02,4.7,857
+P00179,Grass-roots bottom-line frame,Home & Kitchen,Home & Kitchen - Budget,Coleman-Martin,166.86,76.56,383,12,Green PLC,7.93,4.1,697
+P00180,Future-proofed 3rdgeneration challenge,Health & Wellness,Health & Wellness - Budget,Anderson LLC,10.32,4.7,320,25,Watson PLC,3.75,4.4,904
+P00181,Synchronized global workforce,Electronics,Electronics - Standard,Gray-Lee,335.15,210.03,199,34,Lane Ltd,7.3,3.7,467
+P00182,Implemented full-range architecture,Office Supplies,Office Supplies - Budget,Green Ltd,28.77,12.59,143,44,Smith Group,1.84,4.5,872
+P00183,Synergized asynchronous model,Beauty & Personal Care,Beauty & Personal Care - Premium,"Bates, Smith and Young",141.48,96.24,201,39,"Fisher, Norris and Parker",5.98,3.4,361
+P00184,Assimilated interactive migration,Office Supplies,Office Supplies - Budget,Vaughn PLC,154.14,73.06,487,18,"Lewis, Coleman and House",6.87,4.5,867
+P00185,Cloned contextually-based strategy,Sports & Outdoors,Sports & Outdoors - Premium,"Perry, Price and Castillo",396.87,261.89,99,44,Cabrera-Zimmerman,9.61,4.8,956
+P00186,Inverse actuating parallelism,Clothing,Clothing - Premium,Johnson and Sons,176.69,84.5,350,30,"Rogers, Williams and King",1.95,4.5,739
+P00187,Universal neutral protocol,Automotive,Automotive - Standard,Nichols and Sons,97.17,50.21,495,46,Williams Group,1.8,4.9,226
+P00188,Customer-focused empowering hierarchy,Books,Books - Budget,Barnes-Allen,178.23,113.09,189,16,Baker Group,2.31,5.0,516
+P00189,Upgradable eco-centric policy,Clothing,Clothing - Standard,Robinson PLC,284.37,145.25,13,41,Jackson-Hernandez,5.24,4.9,972
+P00190,Polarized multi-tasking hierarchy,Health & Wellness,Health & Wellness - Budget,"Cooper, Day and Wright",168.94,83.82,249,28,Green-Frye,8.27,3.4,198
+P00191,Right-sized full-range forecast,Sports & Outdoors,Sports & Outdoors - Premium,Thomas-Bailey,317.78,210.79,457,42,Potts Group,8.26,3.1,852
+P00192,Distributed intangible core,Clothing,Clothing - Budget,Joyce-Bailey,457.8,249.63,24,22,"Coleman, Wood and Mercer",5.26,4.4,595
+P00193,Robust 24/7 matrices,Books,Books - Premium,Barnes Group,141.88,60.41,186,23,Walsh-Griffin,4.01,3.2,300
+P00194,Ergonomic didactic matrix,Automotive,Automotive - Standard,Nunez-Reid,62.69,28.88,110,21,Moreno-Wolf,3.72,4.8,837
+P00195,Reverse-engineered neutral extranet,Toys & Games,Toys & Games - Budget,Phillips-Castro,243.17,104.37,408,37,"Jones, Atkinson and Wright",4.53,3.6,16
+P00196,Phased fresh-thinking workforce,Office Supplies,Office Supplies - Premium,Cooper Inc,140.22,85.41,329,16,"Wilson, Miller and Murphy",2.91,4.5,89
+P00197,Distributed methodical policy,Electronics,Electronics - Premium,Myers-Valenzuela,390.4,209.64,315,43,Gordon Group,9.48,3.2,605
+P00198,De-engineered logistical contingency,Health & Wellness,Health & Wellness - Premium,Williamson-Morris,241.71,140.56,427,18,"Whitaker, Alexander and Best",7.6,3.0,369
+P00199,Configurable cohesive application,Home & Kitchen,Home & Kitchen - Budget,"Moore, Rice and Hall",125.15,69.84,438,32,"Miller, Morgan and Chung",4.08,4.8,957
+P00200,Extended didactic architecture,Beauty & Personal Care,Beauty & Personal Care - Standard,"Evans, Contreras and Murphy",283.13,148.59,489,30,"Gomez, Davis and Kelly",8.65,4.2,425

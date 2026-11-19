@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\angel\Desktop\E-commerce_sales_platform\python\data_generation\generate_ecommerce_data.py", line 66, in <module>
+    print(f"   \u2713 Created {len(df_customers)} customers")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 3: character maps to <undefined>
